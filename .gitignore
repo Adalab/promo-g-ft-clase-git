@@ -1,0 +1,32 @@
+
+# Ignorar las claves que están en la carpeta keys
+keys/
+
+# Ignorar archivos y directorios generados por el sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de configuración específicos de IDEs
+.idea/
+.vscode/
+
+# Ignorar archivos de compilación y ejecutables
+*.o
+*.out
+*.exe
+
+# Ignorar archivos de dependencias y directorios de paquetes
+node_modules/
+vendor/
+
+# Ignorar archivos de registro y archivos temporales
+*.log
+*.tmp
+
+# Ignorar archivos de respaldo y archivos de caché
+*.bak
+*.cache
+
+# Ignorar archivos de configuración personalizados
+config.ini
+secrets.txt
